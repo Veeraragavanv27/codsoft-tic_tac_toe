@@ -135,8 +135,10 @@ play_game()
 ```
 ## Output:
 
-![alt text](<Screenshot 2025-02-05 142604.png>)
-![alt text](<Screenshot 2025-02-05 142618.png>)
+![image](https://github.com/user-attachments/assets/fc7240c7-f8c7-4edd-9511-3a84d0d5f54a)
+
+![image](https://github.com/user-attachments/assets/bbb86e0a-9bec-49b0-810a-6899d32d3272)
+
 
 ## Result:
 The game determines the winner or a draw based on player and AI moves using the Minimax algorithm. The AI makes optimal moves, ensuring a challenging gameplay experience. 
