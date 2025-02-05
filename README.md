@@ -4,6 +4,7 @@
 To implement an AI agent that plays the classic game of Tic-Tac-Toe against a human player using algorithms like Minimax with or without Alpha-Beta Pruning to make the AI player unbeatable.
 
 ## Algorithm:
+```
 Step 1: Initialize a 3x3 board with empty spaces.
 Step 2: Define functions to print the board and check for a winner or a draw.
 Step 3: Implement the Minimax algorithm with Alpha-Beta Pruning to determine the best AI move.
@@ -14,6 +15,7 @@ Step 7: Check if the player wins or if the board is full (draw).
 Step 8: AI calculates the best move using Minimax and places O on the board.
 Step 9: Check if AI wins or if the board is full (draw).
 Step 10: Repeat steps 5-9 until a winner is found or the game ends in a draw.
+```
 
 ## Program:
 ```
